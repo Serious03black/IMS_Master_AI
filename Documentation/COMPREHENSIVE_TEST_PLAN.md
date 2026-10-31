@@ -1,4 +1,4 @@
-# StudyNotion - Comprehensive Testing Report
+# NotionX - Comprehensive Testing Report
 
 ## Project Overview
 - **Frontend**: React 18.2 + Redux + Tailwind CSS
@@ -267,7 +267,7 @@
 
 ### Start Backend Server
 ```bash
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 npm run dev
 ```
 

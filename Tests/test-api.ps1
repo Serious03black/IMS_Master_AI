@@ -1,4 +1,4 @@
-# StudyNotion API Testing Script
+# NotionX API Testing Script
 # Test all endpoints systematically
 
 $BASE_URL = "http://localhost:4000/api/v1"
@@ -51,7 +51,7 @@ function Test-Endpoint {
     return $result
 }
 
-Write-Host "=== STUDYNOTION API COMPREHENSIVE TEST ===" -ForegroundColor Cyan
+Write-Host "=== NotionX API COMPREHENSIVE TEST ===" -ForegroundColor Cyan
 Write-Host "Testing Backend at: $BASE_URL" -ForegroundColor Yellow
 Write-Host ""
 

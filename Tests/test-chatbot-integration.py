@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ChatBot Integration Test Suite
-Tests all chatbot endpoints integrated with StudyNotion backend
+Tests all chatbot endpoints integrated with NotionX backend
 """
 
 import requests
@@ -13,7 +13,7 @@ BASE_URL = "http://localhost:4000/api/v1"
 CHATBOT_URL = f"{BASE_URL}/chatbot"
 
 print("=" * 80)
-print("🤖 STUDYNOTION CHATBOT INTEGRATION TEST SUITE")
+print("🤖 NotionX CHATBOT INTEGRATION TEST SUITE")
 print("=" * 80)
 print(f"Base URL: {BASE_URL}")
 print(f"Chatbot URL: {CHATBOT_URL}")

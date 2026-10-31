@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-StudyNotion - Advanced Integration Tests
+NotionX - Advanced Integration Tests
 Tests complete user flows: signup, course creation, payment, etc.
 """
 
@@ -13,7 +13,7 @@ import re
 BASE_URL = "http://localhost:4000/api/v1"
 
 print("=" * 90)
-print("🚀 STUDYNOTION ADVANCED INTEGRATION TEST SUITE")
+print("🚀 NotionX ADVANCED INTEGRATION TEST SUITE")
 print("=" * 90)
 print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 print("=" * 90)

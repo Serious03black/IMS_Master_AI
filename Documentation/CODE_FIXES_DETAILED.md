@@ -1,4 +1,4 @@
-# StudyNotion - Code Fixes Required
+# NotionX - Code Fixes Required
 
 ## FIX #1: Remove OTP from Response
 **File**: `server/controllers/Auth.js`  

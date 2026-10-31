@@ -8,7 +8,7 @@
 
 ## 📊 Executive Summary
 
-The AI Chatbot module has been **successfully integrated** into the StudyNotion backend. The chatbot routes are mounted and responding, but several features require external services to be operational.
+The AI Chatbot module has been **successfully integrated** into the NotionX backend. The chatbot routes are mounted and responding, but several features require external services to be operational.
 
 ### Integration Health Score: **50%** ⚠️
 

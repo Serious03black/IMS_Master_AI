@@ -145,7 +145,7 @@ OVERALL PROJECT
 ### Step 2: Start the Server
 
 ```powershell
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 npm run dev
 ```
 

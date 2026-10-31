@@ -1,4 +1,4 @@
-# 🧪 StudyNotion - Quick Test Reference Card
+# 🧪 NotionX - Quick Test Reference Card
 
 **Generated**: April 28, 2026  
 **Status**: ✅ ALL TESTS PASSED (98/100)
@@ -120,7 +120,7 @@ TOTAL SCORE: 98/100 🟢
 
 ```bash
 # Navigate to project
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 
 # Start development
 npm run dev

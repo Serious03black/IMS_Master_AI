@@ -138,7 +138,7 @@ docker-compose up -d
 ## 🎉 Integration Achievement
 
 ✅ **ChatBot Successfully Integrated**
-- Module integrated into main StudyNotion server
+- Module integrated into main NotionX server
 - No port conflicts
 - Routes properly mounted
 - Services initialized

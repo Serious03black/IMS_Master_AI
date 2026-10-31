@@ -334,8 +334,8 @@ exports.sendPaymentSuccessEmail = async(req, res) => {
 //                 //mail send krdo confirmation wala 
 //                 const emailResponse = await mailSender(
 //                                         enrolledStudent.email,
-//                                         "Congratulations from CodeHelp",
-//                                         "Congratulations, you are onboarded into new CodeHelp Course",
+//                                         "Congratulations from NotionX",
+//                                         "Congratulations, you are onboarded into new NotionX Course",
 //                 );
 
 //                 console.log(emailResponse);

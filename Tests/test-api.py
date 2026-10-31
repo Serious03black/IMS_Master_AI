@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-StudyNotion Comprehensive API Testing Suite
+NotionX Comprehensive API Testing Suite
 Tests all backend services systematically
 """
 
@@ -20,7 +20,7 @@ test_results = {
 }
 
 print("=" * 80)
-print("🧪 STUDYNOTION COMPREHENSIVE API TEST SUITE")
+print("🧪 NotionX COMPREHENSIVE API TEST SUITE")
 print("=" * 80)
 print(f"Base URL: {BASE_URL}")
 print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")

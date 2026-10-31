@@ -16,7 +16,7 @@ const ChatbotShowcase = () => {
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex items-center gap-3 mb-4">
             <Brain size={40} className="animate-pulse" />
-            <h1 className="text-5xl font-bold">StudyNotion AI Assistant</h1>
+            <h1 className="text-5xl font-bold">NotionX AI Assistant</h1>
           </div>
           <p className="text-xl text-blue-100">
             Intelligent chatbot powered by advanced AI and RAG architecture

@@ -81,7 +81,7 @@ Once the checkmark appears, your IP is whitelisted!
 Now test if the connection works by running:
 
 ```powershell
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 npm run dev
 ```
 

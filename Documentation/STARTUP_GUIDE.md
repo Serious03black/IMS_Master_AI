@@ -37,7 +37,7 @@ Follow the guide in: `CREDENTIALS_GUIDE.md`
 **Status**: READY TO RUN
 
 ```bash
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 npm run dev
 ```
 
@@ -50,7 +50,7 @@ Press `Ctrl + ` in VS Code to open terminal (or use Windows PowerShell)
 
 ### Step 2: Start Server
 ```powershell
-cd d:\Coding\studyNotion16\studyNotion16
+cd d:\Coding\NotionX16\NotionX16
 npm run dev
 ```
 

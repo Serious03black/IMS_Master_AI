@@ -471,7 +471,7 @@ curl -X POST http://localhost:4000/api/v1/chatbot/documents/batch \
       },
       {
         "title": "Support",
-        "content": "Contact support at support@studynotion.com or use the live chat. Response time: 2-4 hours during business hours",
+        "content": "Contact support at support@NotionX.com or use the live chat. Response time: 2-4 hours during business hours",
         "metadata": {"category": "support"}
       }
     ]

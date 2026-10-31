@@ -33,7 +33,7 @@ INSERT INTO documents (title, content, metadata) VALUES
   ('Certificates', 'Digital certificates shareable on LinkedIn upon completion.', '{"category": "certification"}'::jsonb),
   ('Password Reset', 'Click Forgot Password, enter email, follow reset link, create new password.', '{"category": "account"}'::jsonb),
   ('Course Access', 'Access from Dashboard anytime with videos, PDFs, quizzes, projects, forums.', '{"category": "learning"}'::jsonb),
-  ('Support', 'Live chat 9 AM-6 PM IST, email support@studynotion.com, forums.', '{"category": "support"}'::jsonb),
+  ('Support', 'Live chat 9 AM-6 PM IST, email support@notionx.com, forums.', '{"category": "support"}'::jsonb),
   ('Progress Tracking', 'Track completion, watched lectures, quiz scores in Dashboard.', '{"category": "learning"}'::jsonb)
   ON CONFLICT DO NOTHING;
 
